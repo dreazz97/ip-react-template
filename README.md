@@ -57,7 +57,7 @@ IP-REACT-TEMPLATE/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ip-react-template.git
+   git clone https://github.com/dreazz97/ip-react-template.git
    cd ip-react-template
    ```
 
